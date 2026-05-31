@@ -9,3 +9,6 @@ int main()
     cout << "value of sum is= " << sum;
     return 0;
 }
+
+/*time complexity ->  O(1)
+space complexity  ->  0(1)*/
