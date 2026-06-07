@@ -17,4 +17,6 @@ int main()
     }
 
     return 0;
-}
+} /* time complexiety O(n)
+    space complexiety O(1)
+ */

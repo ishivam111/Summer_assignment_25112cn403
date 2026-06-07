@@ -15,3 +15,6 @@ int main()
     cout << " the factorial of the number is :" << fact(n);
     return 0;
 }
+/* time complexiety O(n)
+   space complexiety O(1)
+*/

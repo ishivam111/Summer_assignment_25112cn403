@@ -14,3 +14,6 @@ int main()
     cout << "Reverse of the given number is: " << rev(n);
     return 0;
 }
+/* time complexiety O(n)
+   space complexiety O(1)
+*/

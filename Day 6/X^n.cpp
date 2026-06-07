@@ -16,3 +16,6 @@ int main()
     cout << b;
     return 0;
 }
+/* time complexiety O(e)
+   space complexiety O(1)
+*/

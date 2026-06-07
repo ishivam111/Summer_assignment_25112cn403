@@ -15,3 +15,6 @@ int main()
     cout << "the sum of digits is :" << sum(n);
     return 0;
 }
+/* time complexiety O(n)
+   space complexiety O(1)
+*/

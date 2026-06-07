@@ -15,3 +15,6 @@ int main()
     cout << " the decimal form of number is :" << deci;
     return 0;
 }
+/* time complexiety O(n)
+   space complexiety O(1)
+*/

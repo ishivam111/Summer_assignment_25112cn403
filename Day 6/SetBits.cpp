@@ -22,3 +22,6 @@ int main()
     cout << "Number of set bits = " << setBits(n);
     return 0;
 }
+/* time complexiety O(n)
+   space complexiety O(1)
+*/
