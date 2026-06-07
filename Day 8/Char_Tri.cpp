@@ -1,18 +1,20 @@
 #include <iostream>
 using namespace std;
+
 int main()
 {
     int r;
-    cout << "enter number of rows or columns  of half pyramid pattern :";
-
+    cout << "Enter number of rows: ";
     cin >> r;
+
     for (int i = 1; i <= r; i++)
     {
-        for (int j = i; j >= 1; j--)
+        for (int j = 1; j <= i; j++)
         {
-            cout << "*" << " ";
+            cout << char('A' + j - 1) << " ";
         }
         cout << endl;
     }
+
     return 0;
 }
